@@ -1,0 +1,27 @@
+[
+  {
+    "x": 100,
+    "y": 200,
+    "isControl": false
+  },
+  {
+    "x": 200,
+    "y": 100,
+    "isControl": true
+  },
+  {
+    "x": 300,
+    "y": 100,
+    "isControl": false
+  },
+  {
+    "x": 400,
+    "y": 100,
+    "isControl": true
+  },
+  {
+    "x": 500,
+    "y": 350,
+    "isControl": false
+  }
+]
